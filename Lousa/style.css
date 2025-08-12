@@ -1,4 +1,23 @@
-.verde {
-  height: 100px;
-  background: linear-gradient(to right, red 20%, blue, 50%, green);
+#fotoCentro-Histórico {
+  width: 250px;
+}
+
+#fotoCentro-Histórico2 {
+  width: 250px;
+}
+
+#azul {
+  color: white;
+  background: blue;
+  width: 500px;
+  height: 500px;
+  font-size: 100px;
+}
+
+.hs {
+  color: red;
+  background: blue;
+  width: 500px;
+  height: 500px;
+  font-size: 50px;
 }
